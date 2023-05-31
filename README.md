@@ -13,3 +13,10 @@ A simple implementation of the classic Flappy Bird game using Java. The game fea
 
 - Java: The game is developed using Java programming language, making use of the Swing library for the graphical interface.
 - Git: Version control system used for tracking changes and managing the project.
+
+
+<p align="center">
+  <img width="600" alt="Screenshot 2023-05-31 at 2 47 42 PM" src="https://github.com/wasayfaizan/Flappy-Bird/assets/91233999/1ce2d5e2-773c-4440-b4d3-2ebc2f0baa16">
+</p>
+
+
